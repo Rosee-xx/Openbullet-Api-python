@@ -1,0 +1,4 @@
+steps to setup:
+1) open host.py and replace host with your ip
+2) setup your keys in ./api/data.txt
+3(optional) Port forward The port your hosting on to get other networks to be able to use the api
