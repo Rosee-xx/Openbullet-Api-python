@@ -27,7 +27,7 @@ async def index():
 
 @app.route("/api/users",methods = ["GET", "POST"])
 async def users():
-    Headers = request.headers
+    Headers = request.headers ## coming soon (; adding a feature to add users very nice ikr
 
 
 app.run(host='PUT IPV4 HERE (:', port = 8000, threaded = True, debug = True)
