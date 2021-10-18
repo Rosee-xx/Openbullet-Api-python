@@ -1,0 +1,1 @@
+just replace the secret key and you're good to go
